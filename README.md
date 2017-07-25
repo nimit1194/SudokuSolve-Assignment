@@ -3,7 +3,7 @@
 
 Sudoku puzzle
 
-   Problem statement                 Solution
+   Problem statement                         Solution
 
     .  .  4 | 8  .  . | .  1  7	     9  3  4 | 8  2  5 | 6  1  7	     
             |         |                      |         |
